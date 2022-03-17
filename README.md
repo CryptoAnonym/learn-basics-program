@@ -1,5 +1,5 @@
-# learn-basics-Python
-I'm learning python.
+# learn-basics-program 
+I'm learning program .
 
 
-Archiving python learning to control learning progress. 
+Archiving program  learning to control learning progress. 
